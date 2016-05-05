@@ -3,6 +3,7 @@ Git creates a .git folder to tuck away all the stuff it needs to manage the vers
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Staging  area is a mediate place between the working directory and the repository to store things related to one commit. With staging area, one is able to pick out the changes pertaining to one logical change among all changes they have done.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
