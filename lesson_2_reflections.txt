@@ -14,6 +14,7 @@ organized? How would branches help?
 I can make multiple versions derived from the same point of the project allowing me to test different potentials.
 
 How do the diagrams help you visualize the branch structure?
+With the diagram, one can easily see where a brance is created and the parallel status of each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
