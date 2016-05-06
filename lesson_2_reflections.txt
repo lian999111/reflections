@@ -18,6 +18,7 @@ With the diagram, one can easily see where a brance is created and the parallel 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+After merging the branches, the new commit will contain the changes in all the branches being merged. By representing it in the diagram, we can easily distinguish the commits of different branches and their parent-child relationship.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
