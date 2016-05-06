@@ -11,6 +11,7 @@ I can add files to the staging area per logical change and make a commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+I can make multiple versions derived from the same point of the project allowing me to test different potentials.
 
 How do the diagrams help you visualize the branch structure?
 
