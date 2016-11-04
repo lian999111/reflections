@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+A remote repository increase portability and is easier to share with others. Also it makes sure there would be a copy kept intact.
