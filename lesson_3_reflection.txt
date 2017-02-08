@@ -3,3 +3,9 @@ A remote repository increase portability and is easier to share with others. Als
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There could be local changes that haven't been pushed to the remote repository. That case Git might stay synchronized with an out-of-date version.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork clones a repository on GitHub and create a new and exactly same one on oneself's account. Clone as it is named clones a local or remote repository to the local machine. Branches are routes of development in a repository.
+Fork: clone other's repository to keep the original one as it is while give recognition to the author.
+Clone: fully copy a remote or local repository to the local machine.
+Branch: branch is used when one wants to try new features while keeping a fully functional version.
