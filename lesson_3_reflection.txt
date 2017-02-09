@@ -12,3 +12,6 @@ Branch: branch is used when one wants to try new features while keeping a fully 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Keeping a copy the last known state of the remote branches helps one understand how different one's repository is from the remote one. This makes the remote branch like a branch independent of the local one; thus, one can merge the local changes with the remote changes if any before committing.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub, one would have difficulty sharing and keeping track of a project. However, changes could be done more freely sometimes even more efficiently with a huge risk to inadvertently ruin the project the team is working on.
