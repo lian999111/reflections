@@ -15,3 +15,6 @@ Keeping a copy the last known state of the remote branches helps one understand 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git or GitHub, one would have difficulty sharing and keeping track of a project. However, changes could be done more freely sometimes even more efficiently with a huge risk to inadvertently ruin the project the team is working on.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Small bug fixes that are known isolated to only one part of the code, and doc modification are more suitable to make directly in master in terms of work efficiency. Larger projects that require more than one release to complete, or a long time to finish are better done in a separate branch as a sandbox to keep the master clean.
